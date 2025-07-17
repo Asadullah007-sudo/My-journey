@@ -1,2 +1,2 @@
-# My-journey
-it is my first repository
+# check
+it is check
